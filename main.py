@@ -8,4 +8,5 @@ def palindrom(k):
 
 k = str(input())
 print(palindrom(k))
+# 123
 
